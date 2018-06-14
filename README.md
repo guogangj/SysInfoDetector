@@ -1,6 +1,8 @@
 # SysInfoDetector
 A simple .NET framework detection program.
 
+[Latest binary download (V1.0.0)](https://github.com/guogangj/SysInfoDetector/releases/download/1.0.0/SysInfoDetector.exe)
+
 Build environment: Visual Studio 2005.
 
 Usage: run it, and you will get information like these
@@ -12,4 +14,4 @@ Usage: run it, and you will get information like these
 .NET Framework 4.7.2 Client Profile
 .NET Framework 4.7.2 Full
 </pre>
-That indicates what .NET Framework are installed on your Windows system.
+That indicates what .NET Frameworks are installed on your Windows system.
