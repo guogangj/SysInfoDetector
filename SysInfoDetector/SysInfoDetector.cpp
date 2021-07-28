@@ -35,6 +35,7 @@ WCHAR* GetFxVersionGreaterThen4dot5(DWORD release)
 	case 461814: //4.7.2 on all other OS versions.
 		return L".NET Framework 4.7.2";
 	case 528040: //4.8 on Windows 10 May 2019 Update
+	case 528372: //4.8 on Windows 10 May 2020 Update and Windows 10 October 2020
 	case 528049: //4.8 on all others Windows operating systems
 		return L".NET Framework 4.8";
 	default:     //Unknown
