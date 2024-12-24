@@ -1,9 +1,9 @@
 # SysInfoDetector
 A simple .NET framework detection program.
 
-[Latest binary download (V1.0.2)](https://github.com/guogangj/SysInfoDetector/releases/download/1.0.2/SysInfoDetector.exe)
+[Latest binary download (V1.0.3)](https://github.com/guogangj/SysInfoDetector/releases/download/1.0.3/SysInfoDetector.exe)
 
-Build environment: Visual Studio 2008.
+Build environment: Visual Studio 2022.
 
 Usage: run it, and you will get information like these
 <pre>

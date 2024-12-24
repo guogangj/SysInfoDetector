@@ -38,8 +38,11 @@ WCHAR* GetFxVersionGreaterThen4dot5(DWORD release)
 	case 528372: //4.8 on Windows 10 May 2020 Update and Windows 10 October 2020
 	case 528049: //4.8 on all others Windows operating systems
 		return L".NET Framework 4.8";
+	case 533320: //4.8.1 on Windows 11 2022 Update and Windows 11 2023 Update
+	case 533325: //4.8.1 on all other Windows operating systems
+		return L".NET Framework 4.8.1";
 	default:     //Unknown
-		return L".NET Framework > 4.8";
+		return L".NET Framework > 4.8.1";
 	}
 }
 
